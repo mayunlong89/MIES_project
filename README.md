@@ -51,4 +51,4 @@ Jin JX, Hua WJ, Jiang X, et al. Effect of outdoor activity on myopia onset and p
 Huang PC, Hsiao YC, Tsai CY, et al. Protective behaviours of near work and time outdoors in myopia prevalence and progression in myopic children: a 2-year prospective population study. Br J Ophthalmol 2020;104(7):956-61.
 Nakamura T, Isogai N, Kojima T, et al. Posterior Chamber Phakic Intraocular Lens Implantation for the Correction of Myopia and Myopic Astigmatism: A Retrospective 10-Year Follow-up Study. Am J Ophthalmol 2019;206:1-10.
 Newcombe RG. Two‐sided confidence intervals for the single proportion: comparison of seven methods. Statistics in medicine 1998;17(8):857-72.
-
+ 
