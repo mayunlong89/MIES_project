@@ -40,10 +40,11 @@ The significance of differences between categorical variables was assessed using
 To explore the effects of both students' online time and outdoor activity time during COVID-19 quarantine on myopia incidence and progression, we performed a logitic regression analysis for the association of two widely-reported behavioral changes with myopia incidence, and an adjusted linear regression analysis for the association of two behavioral changes with myopia progression among 12,013 students collected from August 2020.
 
 
-# 4.6 Myopic Epidemiology and Intervention Study (MEIS) group members:
+# 5 Myopic Epidemiology and Intervention Study (MEIS) 
+# 5.1 Group members:
 Liangde Xu, Ph.D.1,2,3, Yunlong Ma, Ph.D. 1,3, Jian Yuan, Ph.D.1,3, Yaru Zhang, M.S.1,3, Hong Wang, Ph.D.1,2, Guosi Zhang, M.S.1,3, Changsheng Tu, M.S.1,4, Xiaoyan Lu, M.S.1,2, Jing Li, M.S.1,2, Yichun Xiong, M.S.1,2, Fukun Chen, M.S.1,2, Xinting Liu, M.D. 1,2, Zhengbo Xue, M.S.1,2, Meng Zhou, Ph.D.1,3, Wen-Qing Li, Ph.D.5, Nan Wu, M.D.6, Hao Chen, M.D.1,2,4, Fan Lu, M.D.1,2,4, Jianzhong Su, Ph.D.1,2,3, Jia Qu, M.D.1,2,4 , Jie Sun, Ph.D. 1,2,3, Jinhua Bao, M.D. 1,2,4, Liang Ye, M.D. 1,2,4, Jun Jiang, M.D. 1,2,4, Xinjie Mao, M.D. 1,2,4, Xinping Yu, M.D. 1,2,4, Xiaoming Huang, M.D. 1,2,4, Jingjing Xu, M.D. 1,2,4, Miaomiao Li, M.D. 1,2,4, Xuemei Zhang, M.D. 1,2,4, Liang Hu, M.D. 1,2,4, Zhuopao Zuo, M.D. 1,2,4, Wanqing Jin, M.D. 1,2,4, Jiawei Zhou, M.D. 1,2,4, Yuwen Wang, M.D. 1,2,4, Xue Li, M.D. 1,2,4, Fang Hou, M.D. 1,2,4, Yinghao Yao, Ph.D.3, Yukuan Huang, M.S. 1,3, Dandan Fan, M.S. 1,3, Zhenhui Chen, Ph.D. 1,3, Fei Qiu, M.S. 1,3, Yijun Zhou, M.S. 1,3, Na Gao, M.S. 1,3, Xinyu Wang, M.S. 1,3, Kai Li, M.S. 1,3, Liansheng Li, M.S. 1,4, Xinrui Shi, Ph.D. 1,2, 3, Yuchun Deng, Ph.D. 1,3, Ping Hou, M.S. 1,3, Yu Bai, M.S. 1,3, Chenghao Li, M.S. 1,3, Siyu Wang, M.S. 1,3, Lu Chen, M.S. 1,3, Ke Li, M.S. 1,3, Lijun Dai, M.S. 1,3, Xiangyi Yu, M.S. 1,3, Peng Lin, M.S. 1,3, Jingting Zhao, M.S. 1,3, Qi Jiang, M.S. 1,3, Congcong Yan, M.S. 1,3, Siqi Bao, M.S. 1,3, Zicheng Zhang, M.S. 1,3, Ji Zhang, M.S. 1,3, Fangjie Guo, M.S. 1,3.
 
-# 4.7 Institution:
+# 5.2 Institutions:
 1. School of Ophthalmology & Optometry and Eye Hospital, Wenzhou Medical University, Wenzhou, 325027, China.
 2. State Key Laboratory of Ophthalmology, Optometry and Visual Science, Wenzhou, 325027, China.
 3. Institute of Biomedical Big Data, Wenzhou Medical University, Wenzhou, 325027, China.
@@ -51,7 +52,7 @@ Liangde Xu, Ph.D.1,2,3, Yunlong Ma, Ph.D. 1,3, Jian Yuan, Ph.D.1,3, Yaru Zhang, 
 5. Department of Cancer Epidemiology, Peking University Cancer Hospital & Institute, Beijing 100142, China.
 6. Medical Research Center, Peking Union Medical College Hospital, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing, 100730, China.
 
-# 4.8 References:
+# 6 References:
 1. Flitcroft DI, He M, Jonas JB, et al. IMI–Defining and classifying myopia: a proposed set of standards for clinical and epidemiologic studies. Investigative ophthalmology & visual science 2019;60(3):M20-M30.
 2. He M, Kong X, Chen Q, et al. Two-year changes in refractive error and related biometric factors in an adult Chinese population. JAMA Ophthalmol 2014;132(8):978-84.
 3. He M, Xiang F, Zeng Y, et al. Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China: A Randomized Clinical Trial. JAMA 2015;314(11):1142-8.
