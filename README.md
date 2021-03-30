@@ -1,6 +1,6 @@
 # 1. MIES_project
 
-This repostitory contains code corresponding to the paper: "COVID-19 Quarantine Reveals Grade-specific Behavioral Modification of Myopia", which is submitted to the journal of Ophthalmology.
+This repostitory contains code corresponding to the paper: "COVID-19 Quarantine Reveals Behavioral Modifications Effect on Myopia Progression", which is submitted to the journal of Ophthalmology.
 
 # 2.Abstract
 COVID-19 quarantine provides the largest intervention data of myopia progression in schoolchildren. We found grade is an important risk factor rather than age, and six-month behavioral modifications sufficiently change the progression of myopia.
